@@ -31,3 +31,13 @@ Order List
 1. One
 2. Two
 3. three
+
+### Text style
+**Bbold text**
+
+*hello world*
+
+~~delelet text~~
+
+### Block quote
+> Hello world

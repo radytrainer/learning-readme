@@ -41,3 +41,8 @@ Order List
 
 ### Block quote
 > Hello world
+
+### Table
+|id  | name | Age |
+|----|------|-----|
+|01  | Rady | 100|

@@ -46,3 +46,12 @@ Order List
 |id  | name | Age |
 |----|------|-----|
 |01  | Rady | 100|
+
+### Code
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1> heading </h1>
+```
